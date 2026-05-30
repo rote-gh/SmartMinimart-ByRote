@@ -1,0 +1,6 @@
+{
+  "name": "SmartMinimart",
+  "description": "ระบบจัดการร้านค้ามินิมาร์ทอัจฉริยะ คลังสินค้า หน้าจอขายหน้าร้าน (POS) และรายงานวิเคราะห์ยอดขาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
